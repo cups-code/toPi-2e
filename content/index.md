@@ -11,6 +11,8 @@ title: Home
 > 
 > > [!Question] Legacy Notes
 > > Notes from Stage 5 may be imported in the future when the author has time. These notes (specifically for Science) may also need re-formatting due to technical changes (swapping from LaTeX to Typst).
+> > 
+> > However, they are still available on the old website: https://cups-code.github.io/toPi/
 > 
 > [^1]: Citation needed.
 # toPi, 2nd Edition
