@@ -3,7 +3,7 @@ configuration:
   pageTitle: toPi 2e
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: false
+  enablePopovers: true
   analytics:
     provider: none
   locale: en-US
