@@ -95,13 +95,13 @@ plugins:
   - source: "@quartz-community/latex"
     enabled: true
     options:
-      renderEngine: typst
+      renderEngine: "typst"
     order: 80
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
   - source: "@quartz-community/hard-line-breaks"
-    enabled: true
+    enabled: false
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
