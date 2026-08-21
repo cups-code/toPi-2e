@@ -17,64 +17,61 @@ title: Home
 > [^1]: Citation needed.
 # toPi, 2nd Edition
 toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
-- [[#English Advanced (2024 Syllabus)]] ❌
-- [[#Mathematics Advanced (2024 Syllabus)]] 🚧
-- [[#Community and Family Studies]] 🚧
-- [[#Music 1]]
+- [[#✏️ English Advanced (2024 Syllabus)]]]
+- [[#🧮 Mathematics Advanced (2024 Syllabus)]]
+- [[#👨‍👩‍👧 Community and Family Studies]]
+- [[#🎼 Music 1]]
 
 The subjects may be added in the future. There is currently no notes available online for these subjects.
-- [[#Korean Continuers]]
-- [[#Society and Culture]]
+- [[#🇰🇷 Korean Continuers]]
+- [[#👥 Society and Culture]]
 
 You can navigate these notes by (1) going to the links in the bottom section of this homepage or (2) use the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder).
 
-## English Advanced (2024 Syllabus) \[only Y11 available]
+## ✏️ English Advanced (2024 Syllabus)
 > [!Danger] Unavailable
 > This content is unavailable.
-## Mathematics Advanced (2024 Syllabus) \[only Y11 available]
+## 🧮 Mathematics Advanced (2024 Syllabus)
+> [!Abstract] Aim
 > The aim of Mathematics Advanced in Years 11 and 12 is to enable students to enhance their knowledge and understanding from Stage 5 of how to work mathematically, make mathematical connections, develop their understanding of the relationship between real-world problems and mathematical models, and extend their skills to apply the language of mathematics to communicate in a concise and systematic manner. 
 
 > [!Note]
 > These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
-
-%%
-- Algebraic Skills (e.g. Quadratics) (❌)
-- Functions and Relations (❌)
-- Further Functions and Graphs (❌)
-%%
-- Functions and Relations (🚧)
-	- [[3.01 - Functions and Relations]]
-	- [[3.02 - Function Notation and Piecewise Functions]]
-	- [[3.03 - Domain, Range, Even, and Odd Functions]]
-	- Linear Functions :: N/A at this time
-- Introduction to Differential Calculus (Differentiation)
-	- [[6.01 - Rates of Change]]
-	- [[6.02 - Differentiation from First Principles]]
-	- [[6.03 - The Derivative of xⁿ]]
-	- [[6.04 - Applications of Differentiation]]
-	- [[6.05 - Tangents and Normals]]
-	- [[6.06 - The Chain Rule]]
-	- [[6.07 - The Product Rule]]
-	- [[6.08 - The Quotient Rule]]
-	- Bonus Content
-		- [[Describing the Behaviour of Functions]]
-		- [[Differentiation Notation]]
-		- [[Differentiation Rules]]
-- Exponentials and Logarithmic Functions
-	- [[7.01 + 7.02 - Exponential Functions and Euler's Number]]
-	- [[7.04 - Logarithms]]
-- Transformations
-	- [[8.01 + 8.02 - Translations]]
-	- [[8.03 - Reflections]]
-	- [[8.04 + 8.05 - Dilations]]
-	- [[8.06 + 8.07 - Combined Transformations]]
-
-%% - Trigonometry (❌) %%
-## Community and Family Studies (only Y11 available)
+### Year 11
+#### Functions and Relations (🚧)
+- [[3.01 - Functions and Relations]]
+- [[3.02 - Function Notation and Piecewise Functions]]
+- [[3.03 - Domain, Range, Even, and Odd Functions]]
+- Linear Functions :: N/A at this time
+#### Introduction to Differential Calculus (Differentiation)
+- [[6.01 - Rates of Change]]
+- [[6.02 - Differentiation from First Principles]]
+- [[6.03 - The Derivative of xⁿ]]
+- [[6.04 - Applications of Differentiation]]
+- [[6.05 - Tangents and Normals]]
+- [[6.06 - The Chain Rule]]
+- [[6.07 - The Product Rule]]
+- [[6.08 - The Quotient Rule]]
+- Bonus Content
+	- [[Describing the Behaviour of Functions]]
+	- [[Differentiation Notation]]
+	- [[Differentiation Rules]]
+#### Exponentials and Logarithmic Functions
+- [[7.01 + 7.02 - Exponential Functions and Euler's Number]]
+- [[7.04 - Logarithms]]
+#### Transformations
+- [[8.01 + 8.02 - Translations]]
+- [[8.03 - Reflections]]
+- [[8.04 + 8.05 - Dilations]]
+- [[8.06 + 8.07 - Combined Transformations]]
+## 👨‍👩‍👧 Community and Family Studies
+> [!Abstract] Aim
 > Community and Family Studies Stage 6 aims to develop in each student an ability to manage resources and take action to support the needs of individuals, groups, families and communities in Australian society.
+### Year 11
 #### Core 1 – Fundamental Concepts
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
-## Music 1
+## 🎼 Music 1
+> [!Abstract] Aim
 > The aim of Music 1 Stage 6 is to provide students with the opportunity to acquire knowledge, skills and experiences and to emerge as musically sensitive and capable individuals with the capacity and desire for music to play a significant and continually developing role in their lives.
 - [[Aural Examination Tips]]

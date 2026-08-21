@@ -81,6 +81,9 @@ plugins:
   - source: "@quartz-community/table-of-contents"
     enabled: true
     order: 50
+    options:
+      maxDepth: 2
+      layout: modern
     layout:
       position: right
       priority: 30
@@ -95,7 +98,7 @@ plugins:
   - source: "@quartz-community/latex"
     enabled: true
     options:
-      renderEngine: "typst"
+      renderEngine: typst
     order: 80
   - source: "@quartz-community/citations"
     enabled: false
@@ -114,7 +117,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: primary
+      theme: "primary-simplified"
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -278,8 +281,8 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
-      body: Inter
-      header: Inter
+      body: Karla
+      header: Karla
       code: JetBrains Mono
 layout:
   groups:
