@@ -16,7 +16,7 @@ title: Home
 > 
 > [^1]: Citation needed.
 # toPi, 2nd Edition
-toPi 2e is a set of published notes, authored by davopi, for certain Stage 6 (NSW) subjects. These subjects include the following:
+toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
 - [[#English Advanced (2024 Syllabus)]] ❌
 - [[#Mathematics Advanced (2024 Syllabus)]] 🚧
 - [[#Community and Family Studies]] 🚧
