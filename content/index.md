@@ -20,9 +20,9 @@ toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (
 - [[#English Advanced (2024 Syllabus)]] ❌
 - [[#Mathematics Advanced (2024 Syllabus)]] 🚧
 - [[#Community and Family Studies]] 🚧
+- [[#Music 1]]
 
 The subjects may be added in the future. There is currently no notes available online for these subjects.
-- [[#Music 1]]
 - [[#Korean Continuers]]
 - [[#Society and Culture]]
 
@@ -32,7 +32,7 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 > [!Danger] Unavailable
 > This content is unavailable.
 ## Mathematics Advanced (2024 Syllabus)
-> The organisation of outcomes and content for Mathematics Advanced 11–12 highlights the important role Working mathematically plays across all areas of mathematics and reflects the strengthened connections between concepts. Working mathematically has been embedded in the outcomes and content of the syllabus.
+> The aim of Mathematics Advanced in Years 11 and 12 is to enable students to enhance their knowledge and understanding from Stage 5 of how to work mathematically, make mathematical connections, develop their understanding of the relationship between real-world problems and mathematical models, and extend their skills to apply the language of mathematics to communicate in a concise and systematic manner. 
 ### Year 11
 > [!Note]
 > These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
@@ -71,6 +71,11 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 
 %% - Trigonometry (❌) %%
 ## Community and Family Studies
+> Community and Family Studies Stage 6 aims to develop in each student an ability to manage resources and take action to support the needs of individuals, groups, families and communities in Australian society.
 ### Year 11
 #### Core 1 – Fundamental Concepts
 - [[MF-1 Fundamental Concepts of Resource Management]]
+
+## Music 1
+> The aim of Music 1 Stage 6 is to provide students with the opportunity to acquire knowledge, skills and experiences and to emerge as musically sensitive and capable individuals with the capacity and desire for music to play a significant and continually developing role in their lives.
+- [[Aural Examination Tips]]
