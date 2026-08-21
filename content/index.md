@@ -31,9 +31,8 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 ## English Advanced (2024 Syllabus)
 > [!Danger] Unavailable
 > This content is unavailable.
-## Mathematics Advanced (2024 Syllabus)
+## Mathematics Advanced (2024 Syllabus) (only Y11 available)
 > The aim of Mathematics Advanced in Years 11 and 12 is to enable students to enhance their knowledge and understanding from Stage 5 of how to work mathematically, make mathematical connections, develop their understanding of the relationship between real-world problems and mathematical models, and extend their skills to apply the language of mathematics to communicate in a concise and systematic manner. 
-### Year 11
 > [!Note]
 > These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
 
@@ -70,9 +69,8 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 	- [[8.06 + 8.07 - Combined Transformations]]
 
 %% - Trigonometry (❌) %%
-## Community and Family Studies
+## Community and Family Studies (only Y11 available)
 > Community and Family Studies Stage 6 aims to develop in each student an ability to manage resources and take action to support the needs of individuals, groups, families and communities in Australian society.
-### Year 11
 #### Core 1 – Fundamental Concepts
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
