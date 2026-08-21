@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - topic
+      - math-topic
+      - status
