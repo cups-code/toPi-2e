@@ -37,10 +37,27 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 
 %%
 - Algebraic Skills (e.g. Quadratics) (❌)
-- Introduction to Differential Calculus (Differentiation) (❌)
 - Functions and Relations (❌)
 - Further Functions and Graphs (❌)
 %%
+- Functions and Relations (🚧)
+	- [[3.01 - Functions and Relations]]
+	- [[3.02 - Function Notation and Piecewise Functions]]
+	- [[3.03 - Domain, Range, Even, and Odd Functions]]
+	- Linear Functions :: N/A at this time
+- Introduction to Differential Calculus (Differentiation)
+	- [[6.01 - Rates of Change]]
+	- [[6.02 - Differentiation from First Principles]]
+	- [[6.03 - The Derivative of xⁿ]]
+	- [[6.04 - Applications of Differentiation]]
+	- [[6.05 - Tangents and Normals]]
+	- [[6.06 - The Chain Rule]]
+	- [[6.07 - The Product Rule]]
+	- [[6.08 - The Quotient Rule]]
+	- Bonus Content
+		- [[Describing the Behaviour of Functions]]
+		- [[Differentiation Notation]]
+		- [[Differentiation Rules]]
 - Exponentials and Logarithmic Functions
 	- [[7.01 + 7.02 - Exponential Functions and Euler's Number]]
 	- [[7.04 - Logarithms]]
