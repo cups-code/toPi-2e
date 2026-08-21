@@ -5,7 +5,7 @@ title: Home
 > Although this vault will contain a student's personal notes, please do **NOT** use this as a substitute for your own notes. Writing and recalling from your own notes is significantly more beneficial for your own learning[^1] . You may treat this as a supplementary resource for additional information and other perspectives.
 > 
 > > [!Danger] Warnings
-> > This vault is in a constant **work-in-progress** state. Notes may be updated, added, or removed depending on its reliability and state of completion. Above, you will see the progress of each subject's status of completion in terms of compiling notes in this vault.
+> > This vault is in a constant **work-in-progress** state. Notes may be updated, added, or removed depending on its reliability and state of completion. Below, you will see the progress of each subject's status of completion in terms of compiling notes in this vault.
 > > 
 > > For Mathematics Advanced, diagrams and visual aids will **NOT** be available due to technical limitations. To substitute this, consider using https://desmos.com/calculator and calculate the equations provided.
 > 
