@@ -28,11 +28,12 @@ The subjects may be added in the future. There is currently no notes available o
 
 You can navigate these notes by (1) going to the links in the bottom section of this homepage or (2) use the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder).
 
-## English Advanced (2024 Syllabus)
+## English Advanced (2024 Syllabus) \[only Y11 available]
 > [!Danger] Unavailable
 > This content is unavailable.
-## Mathematics Advanced (2024 Syllabus) (only Y11 available)
+## Mathematics Advanced (2024 Syllabus) \[only Y11 available]
 > The aim of Mathematics Advanced in Years 11 and 12 is to enable students to enhance their knowledge and understanding from Stage 5 of how to work mathematically, make mathematical connections, develop their understanding of the relationship between real-world problems and mathematical models, and extend their skills to apply the language of mathematics to communicate in a concise and systematic manner. 
+
 > [!Note]
 > These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
 
