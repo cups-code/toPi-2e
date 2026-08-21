@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: toPi (v2)
+  pageTitle: toPi 2e
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: false
   analytics:
     provider: none
   locale: en-US
-  baseUrl: cups-code.github.io/toPi-v2
+  baseUrl: cups-code.github.io/toPi-2e
   ignorePatterns:
     - private
     - templates
