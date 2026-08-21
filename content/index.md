@@ -15,14 +15,43 @@ title: Home
 > [^1]: Citation needed.
 # toPi, 2nd Edition
 toPi 2e is a set of published notes, authored by davopi, for certain Stage 6 (NSW) subjects. These subjects include the following:
-- English Advanced (2024 Syllabus) ❌
-- Mathematics Advanced (2024 Syllabus) 🚧
-	- Topic roadmap
-		- Trigonometry ❌
-		- Differential calculus (basics) ❌
-		- Functions and relations ❌
-		- Transformations ✅
-- Society and Culture ❌
-- Korean Continuers ❌
-- Community and Family Studies 🚧
-- Music 1 ❌
+- [[#English Advanced (2024 Syllabus)]] ❌
+- [[#Mathematics Advanced (2024 Syllabus)]] 🚧
+- [[#Community and Family Studies]] 🚧
+
+The subjects may be added in the future. There is currently no notes available online for these subjects.
+- [[#Music 1]]
+- [[#Korean Continuers]]
+- [[#Society and Culture]]
+
+You can navigate these notes by (1) going to the links in the bottom section of this homepage or (2) use the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder).
+
+## English Advanced (2024 Syllabus)
+> [!Danger] Unavailable
+> This content is unavailable.
+## Mathematics Advanced (2024 Syllabus)
+> The organisation of outcomes and content for Mathematics Advanced 11–12 highlights the important role Working mathematically plays across all areas of mathematics and reflects the strengthened connections between concepts. Working mathematically has been embedded in the outcomes and content of the syllabus.
+### Year 11
+> [!Note]
+> These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
+
+%%
+- Algebraic Skills (e.g. Quadratics) (❌)
+- Introduction to Differential Calculus (Differentiation) (❌)
+- Functions and Relations (❌)
+- Further Functions and Graphs (❌)
+%%
+- Exponentials and Logarithmic Functions
+	- [[7.01 + 7.02 - Exponential Functions and Euler's Number]]
+	- [[7.04 - Logarithms]]
+- Transformations
+	- [[8.01 + 8.02 - Translations]]
+	- [[8.03 - Reflections]]
+	- [[8.04 + 8.05 - Dilations]]
+	- [[8.06 + 8.07 - Combined Transformations]]
+
+%% - Trigonometry (❌) %%
+## Community and Family Studies
+### Year 11
+#### Core 1 – Fundamental Concepts
+- [[MF-1 Fundamental Concepts of Resource Management]]

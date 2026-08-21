@@ -9,6 +9,9 @@ In this module focus, the fundamental concepts of resource management are explor
 
 ![[Fundamental-Concepts.png]]
 
+> [!Tip]
+> Consider completing the ‘Students Learn To’ blocks as questions for each dot point to apply your knowledge after reading.
+
 ---
 # Wellbeing
 
