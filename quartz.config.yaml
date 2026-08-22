@@ -91,6 +91,7 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      openLinksInNewTab: true
     order: 60
   - source: "@quartz-community/description"
     enabled: true
@@ -117,7 +118,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "primary"
+      theme: "things-3"
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -234,8 +235,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Source: https://github.com/cups-code/toPi-2e
     layout:
       position: footer
       priority: 50
