@@ -281,8 +281,8 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
-      body: Karla
-      header: Karla
+      body: Inter
+      header: Inter
       code: JetBrains Mono
 layout:
   groups:

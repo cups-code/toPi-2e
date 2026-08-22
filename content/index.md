@@ -2,7 +2,11 @@
 title: Home
 ---
 > [!Abstract] Preamble
-> Although this vault will contain a student's personal notes, please do **NOT** use this as a substitute for your own notes. Writing and recalling from your own notes is significantly more beneficial for your own learning[^1] . You may treat this as a supplementary resource for additional information and other perspectives.
+> (Apologies for the long preamble.)
+> 
+> Although this vault will contain a student's personal notes, please do **NOT** use this as a substitute for your own notes. You may treat this as a supplementary study resource for additional information and other perspectives.
+> 
+> This vault attempts its best to comply with NESA's [All My Own Work](https://www.nsw.gov.au/education-and-training/nesa/hsc/all-my-own-work) program. It is intending to provide students an additional online resource for (mostly) syllabus-based[^1] and textbook-based[^2] notes . If those from NESA wish to take this down, please contact icecoldcup.corsage594@passinbox.com.
 > 
 > > [!Danger] Warnings
 > > This vault is in a constant **work-in-progress** state. Notes may be updated, added, or removed depending on its reliability and state of completion. Below, you will see the progress of each subject's status of completion in terms of compiling notes in this vault.
@@ -14,17 +18,18 @@ title: Home
 > > 
 > > However, they are still available on the old website: https://cups-code.github.io/toPi/
 > 
-> [^1]: Citation needed.
+> [^1]: e.g. the [[#🧑‍🤝‍🧑 Society and Culture|Society and Culture]] section of this vault
+> [^2]: e.g. the [[#🧮 Mathematics Advanced (2024 Syllabus)|Mathematics Advanced]] section of this vault, which is complementary to [Maths in Focus 5e](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197)
 # toPi, 2nd Edition
 toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
 - [[#✏️ English Advanced (2024 Syllabus)]]
 - [[#🧮 Mathematics Advanced (2024 Syllabus)]]
 - [[#👨‍👩‍👧 Community and Family Studies]]
 - [[#🎼 Music 1]]
+- [[#🧑‍🤝‍🧑 Society and Culture]]
 
 The subjects may be added in the future. There is currently no notes available online for these subjects.
 - [[#🇰🇷 Korean Continuers]]
-- [[#👥 Society and Culture]]
 
 You can navigate these notes by (1) going to the links in the bottom section of this homepage or (2) use the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder).
 
@@ -69,3 +74,5 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 
 ## 🎼 Music 1
 - [[Aural Examination Tips]]
+## 🧑‍🤝‍🧑 Society and Culture
+Before continuing with this section, consider reading the [[_SaC Overview|overview]].
