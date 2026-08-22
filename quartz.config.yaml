@@ -117,7 +117,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "primary-simplified"
+      theme: "primary"
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true

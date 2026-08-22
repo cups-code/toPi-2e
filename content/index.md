@@ -17,7 +17,7 @@ title: Home
 > [^1]: Citation needed.
 # toPi, 2nd Edition
 toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
-- [[#✏️ English Advanced (2024 Syllabus)]]]
+- [[#✏️ English Advanced (2024 Syllabus)]]
 - [[#🧮 Mathematics Advanced (2024 Syllabus)]]
 - [[#👨‍👩‍👧 Community and Family Studies]]
 - [[#🎼 Music 1]]
@@ -32,8 +32,6 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 > [!Danger] Unavailable
 > This content is unavailable.
 ## 🧮 Mathematics Advanced (2024 Syllabus)
-> [!Abstract] Aim
-> The aim of Mathematics Advanced in Years 11 and 12 is to enable students to enhance their knowledge and understanding from Stage 5 of how to work mathematically, make mathematical connections, develop their understanding of the relationship between real-world problems and mathematical models, and extend their skills to apply the language of mathematics to communicate in a concise and systematic manner. 
 
 > [!Note]
 > These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
@@ -65,13 +63,9 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 - [[8.04 + 8.05 - Dilations]]
 - [[8.06 + 8.07 - Combined Transformations]]
 ## 👨‍👩‍👧 Community and Family Studies
-> [!Abstract] Aim
-> Community and Family Studies Stage 6 aims to develop in each student an ability to manage resources and take action to support the needs of individuals, groups, families and communities in Australian society.
 ### Year 11
 #### Core 1 – Fundamental Concepts
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
 ## 🎼 Music 1
-> [!Abstract] Aim
-> The aim of Music 1 Stage 6 is to provide students with the opportunity to acquire knowledge, skills and experiences and to emerge as musically sensitive and capable individuals with the capacity and desire for music to play a significant and continually developing role in their lives.
 - [[Aural Examination Tips]]
