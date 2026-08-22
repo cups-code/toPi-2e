@@ -69,13 +69,17 @@ Being able to be socially and culturally literate means that one will possess th
 ### Personal Experience and Public Knowledge
 Personal experience is the knowledge gained from the reflection of individual experiences. It is incredibly important in this course, as it allows for the achievement of [[#Social and Cultural Literacy|social and cultural literacy]].
 
-Public knowledge is the general knowledge and knowledge under the public domain, meaning it is accessible to everyone. Work or research from other people under the public domain is considered as public knowledge.
+Public knowledge is the general knowledge and knowledge accessible to everyone. Work or research from other people under the public domain is considered as public knowledge.
 
 Combining both personal experience and public knowledge allows for a holistic and balanced understanding of [[society]] and [[culture]], achieving [[#Social and Cultural Literacy|social and cultural literacy]].
 
 ---
 # Index of Information
 ## Preliminary Depth Studies
+
+> [!Danger] Unavailable
+> These depth studies are currently unavailable, as they require extensive documentation.
+
 - [[DS-1 The Social and Cultural World]]
 - [[DS-2 Personal and Social Identity]]
 - [[DS-3 Intercultural Communication]]

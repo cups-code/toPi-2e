@@ -22,20 +22,23 @@ title: Home
 > [^2]: e.g. the [[#🧮 Mathematics Advanced (2024 Syllabus)|Mathematics Advanced]] section of this vault, which is complementary to [Maths in Focus 5e](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197)
 # toPi, 2nd Edition
 toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
-- [[#✏️ English Advanced (2024 Syllabus)]]
 - [[#🧮 Mathematics Advanced (2024 Syllabus)]]
 - [[#👨‍👩‍👧 Community and Family Studies]]
-- [[#🎼 Music 1]]
 - [[#🧑‍🤝‍🧑 Society and Culture]]
 
 The subjects may be added in the future. There is currently no notes available online for these subjects.
+- [[#✏️ English Advanced (2024 Syllabus)]]
 - [[#🇰🇷 Korean Continuers]]
+- [[#🎼 Music 1]]
 
-You can navigate these notes by (1) going to the links in the bottom section of this homepage or (2) use the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder).
+You can navigate these notes by:
+1. going to the links in the bottom section of this homepage, or
+2. using the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder), or
+3. using CMD/CTRL+K.
 
 ## ✏️ English Advanced (2024 Syllabus)
 > [!Danger] Unavailable
-> This content is unavailable.
+> There is no content currently available for this section.
 ## 🧮 Mathematics Advanced (2024 Syllabus)
 
 > [!Note]
@@ -73,6 +76,7 @@ You can navigate these notes by (1) going to the links in the bottom section of 
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
 ## 🎼 Music 1
-- [[Aural Examination Tips]]
+> [!Danger] Unavailable
+> This content is currently unavailable, as it must be validated to comply with NESA's AMOW program.
 ## 🧑‍🤝‍🧑 Society and Culture
 Before continuing with this section, consider reading the [[_SaC Overview|overview]].

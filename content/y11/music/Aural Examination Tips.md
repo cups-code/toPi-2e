@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 # Aural Examinations
 ## Type of Questions
 
