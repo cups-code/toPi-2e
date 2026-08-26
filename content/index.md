@@ -21,28 +21,33 @@ title: Home
 > [^1]: e.g. the [[#🧑‍🤝‍🧑 Society and Culture|Society and Culture]] section of this vault
 > [^2]: e.g. the [[#🧮 Mathematics Advanced (2024 Syllabus)|Mathematics Advanced]] section of this vault, which is complementary to [Maths in Focus 5e](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197)
 # toPi, 2nd Edition
-toPi 2e is a set of published notes, authored by *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
+toPi 2e is a set of published notes by **the author**, who is *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
 - [[#🧮 Mathematics Advanced (2024 Syllabus)]]
 - [[#👨‍👩‍👧 Community and Family Studies]]
 - [[#🧑‍🤝‍🧑 Society and Culture]]
+- [[#🎼 Music 1]]
 
 The subjects may be added in the future. There is currently no notes available online for these subjects.
 - [[#✏️ English Advanced (2024 Syllabus)]]
 - [[#🇰🇷 Korean Continuers]]
-- [[#🎼 Music 1]]
 
 You can navigate these notes by:
 1. going to the links in the bottom section of this homepage, or
 2. using the explorer on the left-hand side (you can also click on each topic to see a list of files in that folder), or
 3. using CMD/CTRL+K.
 
+---
+# Notes
 ## ✏️ English Advanced (2024 Syllabus)
 > [!Danger] Unavailable
 > There is no content currently available for this section.
 ## 🧮 Mathematics Advanced (2024 Syllabus)
+The Mathematics Advanced section is structured around the chapters and exercises of the Stage 6 Maths in Focus 5th Edition book (e.g. 8.01, 8.02), which you must [buy](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197) in order to access.
 
-> [!Note]
-> These notes are based on chapters and exercises on the Stage 6 Maths in Focus 5th Edition.
+Additionally, it includes additional content from class lectures that have been formatted by the author.
+
+> [!Warning] Note
+> These notes have been summarised into the author’s own words, with no content taken from Maths in Focus other than crucial and un-paraphrasable mathematical formulas.
 ### Year 11
 #### Functions and Relations (🚧)
 - [[3.01 - Functions and Relations]]
@@ -60,22 +65,44 @@ You can navigate these notes by:
 - [[6.08 - The Quotient Rule]]
 - Bonus Content
 	- [[Describing the Behaviour of Functions]]
-	- [[Differentiation Notation]]
-	- [[Differentiation Rules]]
 #### Exponentials and Logarithmic Functions
 - [[7.01 + 7.02 - Exponential Functions and Euler's Number]]
 - [[7.04 - Logarithms]]
+- [[7.05 - Logarithmic Laws]]
 #### Transformations
 - [[8.01 + 8.02 - Translations]]
 - [[8.03 - Reflections]]
 - [[8.04 + 8.05 - Dilations]]
 - [[8.06 + 8.07 - Combined Transformations]]
 ## 👨‍👩‍👧 Community and Family Studies
+The Community and Family Studies section is structured around the syllabus’ division of core content, and thus, module foci.
 ### Year 11
 #### Core 1 – Fundamental Concepts
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
 ## 🎼 Music 1
+The Music 1 section is currently *not* structured around the syllabus. However, other notes still remain here to be accessed.
+
 - [[Aural Examination Tips]]
 ## 🧑‍🤝‍🧑 Society and Culture
-Before continuing with this section, consider reading the [[_SaC Overview|overview]].
+Before continuing with this section, consider reading the [[_SaC Overview|overview]]. This deals with the syllabus point 8.1.
+
+Additionally, fundamental and supplemental concepts for Society and Culture have been integrated within this vault as atomic notes. Some important concepts include:
+- [[persons]]
+- [[society]]
+- [[culture]]
+- [[environment]]
+- [[time]]
+
+However, if one would like to jump to a specific depth study:
+- [[DS-1 The Social and Cultural World]]
+- [[DS-2 Personal and Social Identity]]
+- [[DS-3 Intercultural Communication]]
+
+> [!Warning]
+> There are currently no depth studies available.
+
+---
+
+# Lectures
+You can check the [[_Lecture Section Overview]] for information about what the lecture section is, as well as some key lectures that may be helpful.
