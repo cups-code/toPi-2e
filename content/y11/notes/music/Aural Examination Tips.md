@@ -1,12 +1,16 @@
 ---
-draft: "true"
+draft: "false"
 ---
 # Aural Examinations
+> [!Note] Attribution
+> These notes were made from the “Writing about music in Stage 6 - Music 1 aural skills” resource, through the “Module 1 - unpacking the aural skills paper” presentation.
+> 
+> All rights reserved to © State of New South Wales (Department of Education), 2024.
 ## Type of Questions
 
 | Single concept                                  | Multiple concepts                                                                         | Unity, contrast, variety, and interest                      | Tension                                              | Comparative analysis                                                                                                                                                          |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Based on a single concept of miusic             | Based on two or more concepts of music, concepts can be related to each other             | Refers to what stays the same and what changes in the piece | Based on what causes a build and/or release in music | Require identification of similarities and differences between 2 versions of the same piece                                                                                   |
+| Based on a single concept of music              | Based on two or more concepts of music, concepts can be related to each other             | Refers to what stays the same and what changes in the piece | Based on what causes a build and/or release in music | Require identification of similarities and differences between 2 versions of the same piece                                                                                   |
 | *Example*                                       | *Example*                                                                                 | *Example*                                                   | *Example*                                            | *Example*                                                                                                                                                                     |
 | “Explain how duration is used in this excerpt.” | “Explore the use of dynamics and expressive techniques, and tone colour in this excerpt.” | “Analyse the use of both unity and contrast in this work.”  | “Explain how tension is created in this excerpt.”    | “Compare how tone colour is explored in the 2 versions of ‘Passepied’ by Debussy. Version one is performed by Punch Brothers. Version 2 is performed by Super Swing Machine.” |
 > [!Tip]

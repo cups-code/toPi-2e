@@ -76,7 +76,6 @@ You can navigate these notes by:
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
 ## 🎼 Music 1
-> [!Danger] Unavailable
-> This content is currently unavailable, as it must be validated to comply with NESA's AMOW program.
+- [[Aural Examination Tips]]
 ## 🧑‍🤝‍🧑 Society and Culture
 Before continuing with this section, consider reading the [[_SaC Overview|overview]].
