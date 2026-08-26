@@ -14,9 +14,9 @@ title: Home
 > > For Mathematics Advanced, diagrams and visual aids will **NOT** be available due to technical limitations. To substitute this, consider using https://desmos.com/calculator and calculate the equations provided.
 > 
 > > [!Question] Legacy Notes
-> > Notes from Stage 5 may be imported in the future when the author has time. These notes (specifically for Science) may also need re-formatting due to technical changes (swapping from LaTeX to Typst).
+> > Notes from Stage 5 may be imported in the future when the author has time. These notes (specifically for Science) may also need reformatting due to technical changes (swapping from LaTeX to Typst).
 > > 
-> > However, they are still available on the old website: https://cups-code.github.io/toPi/
+> > Additionally, reformatting must but done in order to avoid any copyright issues.
 > 
 > [^1]: e.g. the [[#🧑‍🤝‍🧑 Society and Culture|Society and Culture]] section of this vault
 > [^2]: e.g. the [[#🧮 Mathematics Advanced (2024 Syllabus)|Mathematics Advanced]] section of this vault, which is complementary to [Maths in Focus 5e](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197)
@@ -42,49 +42,33 @@ You can navigate these notes by:
 > [!Danger] Unavailable
 > There is no content currently available for this section.
 ## 🧮 Mathematics Advanced (2024 Syllabus)
-The Mathematics Advanced section is structured around the chapters and exercises of the Stage 6 Maths in Focus 5th Edition book (e.g. 8.01, 8.02), which you must [buy](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197) in order to access.
+> [!Danger] Unavailable
+> To avoid copyright with Maths in Focus, Atomi, and other sources, this content has been temporarily taken down to amend notes and ensure no copyright is violated.
+
+The Mathematics Advanced section provides mathematical concepts and explained, original questions (in certain notes) with inspiration to the Stage 6 Maths in Focus 5th Edition book, which you must [buy](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197) in order to access.
 
 Additionally, it includes additional content from class lectures that have been formatted by the author.
 
 > [!Warning] Note
 > These notes have been summarised into the author’s own words, with no content taken from Maths in Focus other than crucial and un-paraphrasable mathematical formulas.
-### Year 11
-#### Functions and Relations (🚧)
-- [[3.01 - Functions and Relations]]
-- [[3.02 - Function Notation and Piecewise Functions]]
-- [[3.03 - Domain, Range, Even, and Odd Functions]]
-- Linear Functions :: N/A at this time
-#### Introduction to Differential Calculus (Differentiation)
-- [[6.01 - Rates of Change]]
-- [[6.02 - Differentiation from First Principles]]
-- [[6.03 - The Derivative of xⁿ]]
-- [[6.04 - Applications of Differentiation]]
-- [[6.05 - Tangents and Normals]]
-- [[6.06 - The Chain Rule]]
-- [[6.07 - The Product Rule]]
-- [[6.08 - The Quotient Rule]]
-- Bonus Content
-	- [[Describing the Behaviour of Functions]]
-#### Exponentials and Logarithmic Functions
-- [[7.01 + 7.02 - Exponential Functions and Euler's Number]]
-- [[7.04 - Logarithms]]
-- [[7.05 - Logarithmic Laws]]
-#### Transformations
-- [[8.01 + 8.02 - Translations]]
-- [[8.03 - Reflections]]
-- [[8.04 + 8.05 - Dilations]]
-- [[8.06 + 8.07 - Combined Transformations]]
 ## 👨‍👩‍👧 Community and Family Studies
+> [!Check] Available
+> The content in this section has been verified to be (1) from the syllabus and (2) usable for reading.
+
 The Community and Family Studies section is structured around the syllabus’ division of core content, and thus, module foci.
 ### Year 11
 #### Core 1 – Fundamental Concepts
 - [[MF-1 Fundamental Concepts of Resource Management]]
 
 ## 🎼 Music 1
-The Music 1 section is currently *not* structured around the syllabus. However, other notes still remain here to be accessed.
+> [!Warning] Moderately Usable
+> The Music 1 section is currently *not* structured around the syllabus. However, other notes still remain here to be accessed.
 
 - [[Aural Examination Tips]]
 ## 🧑‍🤝‍🧑 Society and Culture
+> [!Check] Available
+> The content in this section has been verified to be (1) from the syllabus and (2) usable for reading.
+
 Before continuing with this section, consider reading the [[_SaC Overview|overview]]. This deals with the syllabus point 8.1.
 
 Additionally, fundamental and supplemental concepts for Society and Culture have been integrated within this vault as atomic notes. Some important concepts include:
