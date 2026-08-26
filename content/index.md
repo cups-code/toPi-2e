@@ -6,7 +6,7 @@ title: Home
 > 
 > Although this vault will contain a student's personal notes, please do **NOT** use this as a substitute for your own notes. You may treat this as a supplementary study resource for additional information and other perspectives.
 > 
-> This vault attempts its best to comply with NESA's [All My Own Work](https://www.nsw.gov.au/education-and-training/nesa/hsc/all-my-own-work) program. It is intending to provide students an additional online resource for (mostly) syllabus-based[^1] and textbook-based[^2] notes . If those from NESA wish to take this down, please contact icecoldcup.corsage594@passinbox.com.
+> This vault attempts its best to comply with NESA's [All My Own Work](https://www.nsw.gov.au/education-and-training/nesa/hsc/all-my-own-work) program. It is intending to provide students an additional online resource for (mostly) syllabus-based[^1] notes . If those from NESA wish to take this down, please contact icecoldcup.corsage594@passinbox.com.
 > 
 > > [!Danger] Warnings
 > > This vault is in a constant **work-in-progress** state. Notes may be updated, added, or removed depending on its reliability and state of completion. Below, you will see the progress of each subject's status of completion in terms of compiling notes in this vault.
@@ -19,7 +19,6 @@ title: Home
 > > Additionally, reformatting must but done in order to avoid any copyright issues.
 > 
 > [^1]: e.g. the [[#🧑‍🤝‍🧑 Society and Culture|Society and Culture]] section of this vault
-> [^2]: e.g. the [[#🧮 Mathematics Advanced (2024 Syllabus)|Mathematics Advanced]] section of this vault, which is complementary to [Maths in Focus 5e](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197)
 # toPi, 2nd Edition
 toPi 2e is a set of published notes by **the author**, who is *davopi*, for certain Stage 6 (NSW) subjects. These subjects include the following:
 - [[#🧮 Mathematics Advanced (2024 Syllabus)]]
@@ -38,9 +37,6 @@ You can navigate these notes by:
 
 ---
 # Notes
-## ✏️ English Advanced (2024 Syllabus)
-> [!Danger] Unavailable
-> There is no content currently available for this section.
 ## 🧮 Mathematics Advanced (2024 Syllabus)
 > [!Warning] Available
 > The content in this section does not fully align with the syllabus, but should mostly reflect it. Reference to the syllabus is absent, which may be of individual concern.
@@ -66,8 +62,10 @@ Additionally, it includes additional content from class lectures that have been 
 - [[E2. Introduction to Logarithms]]
 - [[E3. Logarithmic Laws]]
 ## 👨‍👩‍👧 Community and Family Studies
-> [!Check] Available
+> [!Warning] Available
 > The content in this section has been verified to be (1) from the syllabus and (2) usable for reading.
+> 
+> However, this section is incomplete.
 
 The Community and Family Studies section is structured around the syllabus’ division of core content, and thus, module foci.
 ### Year 11
@@ -80,8 +78,10 @@ The Community and Family Studies section is structured around the syllabus’ di
 
 - [[Aural Examination Tips]]
 ## 🧑‍🤝‍🧑 Society and Culture
-> [!Check] Available
+> [!Warning] Available
 > The content in this section has been verified to be (1) from the syllabus and (2) usable for reading.
+> 
+> However, this section is incomplete.
 
 Before continuing with this section, consider reading the [[_SaC Overview|overview]]. This deals with the syllabus point 8.1.
 
@@ -99,6 +99,14 @@ However, if one would like to jump to a specific depth study:
 
 > [!Warning]
 > There are currently no depth studies available.
+
+## ✏️ English Advanced (2024 Syllabus)
+> [!Danger] Unavailable
+> This content is not available at this time. It may be published as a review section later on, but to avoid violating NESA’s AMOW, studies for the assessment will NOT be published in order to avoid academic misconduct, collusion, and plagiarism.
+
+## 🇰🇷 Korean Continuers
+> [!Danger] Unavailable
+> This content is not available at this time. It is very difficult to input Korean on an English keyboard, and requires some learning from the author’s side. Apologies for the inconvenience.
 
 ---
 
