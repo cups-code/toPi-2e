@@ -22,23 +22,23 @@ configuration:
       code: Inter
     colors:
       lightMode:
-        light: "#faf8f8"
+        light: "#fbf1c7"
         lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        gray: "#f2e5bc"
+        darkgray: "#504945"
+        dark: "#3c3836"
+        secondary: "#98971a"
+        tertiary: "#79740e"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
+        light: "#282828"
         lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        gray: "#32302f"
+        darkgray: "#bdae93"
+        dark: "#a89884"
+        secondary: "#98971a"
+        tertiary: "#b8bb26"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:

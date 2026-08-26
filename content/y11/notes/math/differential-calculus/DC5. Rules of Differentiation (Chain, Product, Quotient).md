@@ -165,6 +165,7 @@ $$
 > To apply the quotient rule, it requires the defining of variables such as $u$ and $v$, as well as their derivatives. However, unlike the product rule, the order of variables **DOES** matter. Ensure that $v$ or $u’$ comes first, otherwise, you will have a different answer.
 > 
 > > [!Tip] Tip Regarding Defining $u$ and $v$
+> > 
 > > While this strategy was taken from a lecture, it’s good to remember $u$ as the numerator because the letter ‘u’ is in n**u**merator. This is good for defining $u$, as $u$ will always be the function in the numerator. You can define $v$ as the denominator.
 > 
 > $$
