@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("y11/notes/math")
+    groupBy:
+      property: date
+      direction: ASC
+    order:
+      - file.name
+      - math-topic
+      - date
+    sort:
+      - property: date
+        direction: DESC
+      - property: math-topic
+        direction: DESC

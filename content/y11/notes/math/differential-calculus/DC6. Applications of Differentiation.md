@@ -2,13 +2,12 @@
 tags:
   - Note
 math-topic:
-  - Introduction to Differentiation – MIF Ch. 6
 status:
+date: 2026-08-26
 ---
 # Applications of Differentiation
 ## Context
 Differentiation can be applied in various ways, one of which is physics.
-
 
 |              | Scalars                                                                                                   | Vectors                                                                                      |
 | ------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -30,4 +29,3 @@ v="dx"/"dt" = accent(x, .) \
 a="dv"/"dt"=accent(v, .)=accent(x, dot.double)
 $$
 v is for velocity, a is for acceleration.
-

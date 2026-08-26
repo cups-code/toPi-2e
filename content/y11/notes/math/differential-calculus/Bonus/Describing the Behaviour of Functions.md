@@ -2,9 +2,8 @@
 tags:
   - Note
 math-topic:
-  - Bonus Lesson w/ Ms. K
-  - Introduction to Differentiation – MIF Ch. 6
 status:
+date: 2026-08-26
 ---
 # Describing the Behaviour of Functions
 f(x) is…

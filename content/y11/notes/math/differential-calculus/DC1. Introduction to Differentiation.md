@@ -2,10 +2,11 @@
 tags:
   - Note
 math-topic:
-  - Introduction to Differentiation – MIF Ch. 6
 status: true
+date: 2026-08-26
 ---
-# Rates of Change
+# Introduction to Differentiation
+## Rates of Change
 So, gradient:
 $$
 m="rise"/"run"=(y_2-y_1)/(x_2-x_1)
@@ -15,6 +16,9 @@ To calculate the average rate of change of a curve:
 $$
 m=(f(b)-f(a))/(b-a)
 $$
+
+^567f6a
+
 $$
 f(x)=x^2, a=(1,1), b=(2,4) \
 m=(f(b)-f(a))/(b-a) \
@@ -25,13 +29,13 @@ $$
 ## Instantaneous Rates of Change
 The instantaneous rate of change on a graph is the rate of change at a specific point.
 
-Without ([[3. Differentiation from First Principles|advanced]]) calculus, you cannot calculate the instantaneous rate of change. However, you can estimate it by finding the gradient of the tangent at a specific point of a curve.
+Without ([[DC3. Differentiation from First Principles|advanced]]) calculus, you cannot calculate the instantaneous rate of change. However, you can estimate it by finding the gradient of the tangent at a specific point of a curve.
 
 > [!Tip]
 > The tangent is a straight line that touches the curve at only one point.
 
 ## Derivative
-The derivative function (also known as the gradient function) is the function that allows us to find the gradient of any point at a curve. This will be explored later on [[3. Differentiation from First Principles]].
+The derivative function (also known as the gradient function) is the function that allows us to find the gradient of any point at a curve. This will be explored later on [[DC3. Differentiation from First Principles]].
 
 For example, the derivative function ($f('x)$ or $"dy"/"dx"$) of $f(x)=x^2$ is $f'(x)=2x$.
 

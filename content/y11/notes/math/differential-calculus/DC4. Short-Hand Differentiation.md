@@ -3,8 +3,8 @@ tags:
   - Note
 aka: Power Rule
 math-topic:
-  - Introduction to Differentiation – MIF Ch. 6
 status:
+date: 2026-08-26
 ---
 # The Derivative of xⁿ (Short-Hand Differentiation)
 
@@ -27,7 +27,7 @@ This allows us to differentiate functions in a more efficient way.
 
 > [!Abstract] For Certain Functions
 > For linear functions ($y=m x+c$), $(d y)/(d x) = m$.
-> For horizontal lines ($y=k$), $(d y)/(d x)=0$.
+> For horizontal lines ($y=k$), $(d y)/(d x)=0$. This is called the constant rule.
 
 > [!Tip]
 > In regards to other types of functions… (generalised)

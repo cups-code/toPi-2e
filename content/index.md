@@ -42,15 +42,29 @@ You can navigate these notes by:
 > [!Danger] Unavailable
 > There is no content currently available for this section.
 ## 🧮 Mathematics Advanced (2024 Syllabus)
-> [!Danger] Unavailable
-> To avoid copyright with Maths in Focus, Atomi, and other sources, this content has been temporarily taken down to amend notes and ensure no copyright is violated.
+> [!Warning] Available
+> The content in this section does not fully align with the syllabus, but should mostly reflect it. Reference to the syllabus is absent, which may be of individual concern.
+> 
+> Nevertheless, content for this section is available.
 
-The Mathematics Advanced section provides mathematical concepts and explained, original questions (in certain notes) with inspiration to the Stage 6 Maths in Focus 5th Edition book, which you must [buy](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197) in order to access.
+The Mathematics Advanced section provides mathematical concepts and explained, original questions (in certain notes) with *inspiration* to the Stage 6 Maths in Focus 5th Edition book, which you must [buy](https://cengage.com.au/product/division/secondary/title/maths-in-focus-11-mathematics-advanced-studen/isbn/9780170498197) in order to access.
 
 Additionally, it includes additional content from class lectures that have been formatted by the author.
 
-> [!Warning] Note
-> These notes have been summarised into the author’s own words, with no content taken from Maths in Focus other than crucial and un-paraphrasable mathematical formulas.
+### Functions and Transformations
+- [[FB1. Introduction to Functions]]
+- [[T1. Function Transformations]]
+### Differential Calculus
+- [[DC1. Introduction to Differentiation]]
+- [[DC2. Tangents and Normals]]
+- [[DC3. Differentiation from First Principles]]
+- [[DC4. Short-Hand Differentiation]]
+- [[DC5. Rules of Differentiation (Chain, Product, Quotient)]]
+- [[DC6. Applications of Differentiation]]
+### Exponential Functions
+- [[E1. Introduction to Exponential Functions]]
+- [[E2. Introduction to Logarithms]]
+- [[E3. Logarithmic Laws]]
 ## 👨‍👩‍👧 Community and Family Studies
 > [!Check] Available
 > The content in this section has been verified to be (1) from the syllabus and (2) usable for reading.
